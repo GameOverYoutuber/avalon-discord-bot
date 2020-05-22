@@ -1,1 +1,2 @@
-### LOL ###
+# avalon-discord-bot
+ lel
